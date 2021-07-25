@@ -1,0 +1,28 @@
+*{
+    background-color: blueviolet;
+}
+
+.stories{
+    display: flex;
+    flex-direction: column;
+    margin: 4rem 2%;
+}
+
+.first-post{
+    margin: 3%;
+    position: relative;
+}
+
+.post-category{
+    position: absolute;
+    top: 17px;
+    left: 50px;
+}
+
+.post-heading{
+    position: absolute;
+}
+
+.post-icon{
+    position: absolute;
+}
